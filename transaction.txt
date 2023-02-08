@@ -1,0 +1,16 @@
+================== DETIL TRANSAKSI =================
+Lapangan Rumput
+Rp. 25.000/Jam
+Lapangan dengan rumput, hanya lapangan saja.
+
+INFO :
+Belum termasuk perlengkapan 
+Durasi bermain	: 3 Jam
+Perlengkapan	: 
+1. Cone x1 - 5000
+
+======================= TOTAL ======================
+Lapangan		: Rp. 75.000
+Perlengkapan	: Rp. 10.000
+Total harga		: Rp. 85.000
+====================================================
