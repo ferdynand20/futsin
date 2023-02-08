@@ -1,6 +1,6 @@
 # Reservasi Lapangan Futsal
 
-This repository is intended for introductory software engineering and basic programming tasks.
+This repository is intended for final semester 1 assignments.
 These are our members
 
 | No  | Nama                       | NIM     |
